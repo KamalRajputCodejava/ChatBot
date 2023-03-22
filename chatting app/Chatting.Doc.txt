@@ -1,0 +1,10 @@
+Used Consepts ==> 
+->JavaBasics (OOPs)
+->Networking in java (SocketProgramming)
+-> Swing for the GUI .
+===============================================================================
+ <===architecture===> 
+  Server <=====================> Client
+  serversocket                  Socket 
+  program 1                     program2
+  
